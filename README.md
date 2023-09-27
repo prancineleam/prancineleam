@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development. I'm starting with CSS.
 - 📫 How to reach me: Here @Github
 - 😄 Pronouns: She
-- ⚡ Fun fact: It's FUN!
 -->
